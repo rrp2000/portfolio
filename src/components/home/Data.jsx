@@ -54,9 +54,9 @@ const Data = () => {
                     ></path>
                 </svg>
             </h1>
-            <h3 className="home__subtitle">Web Designer</h3>
+            <h3 className="home__subtitle">Software Developer</h3>
             <p className="home__description">
-            I am a passionate web developer hailing from the vibrant state of Odisha, India.
+            I am a passionate software developer hailing from the vibrant state of Odisha, India.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
