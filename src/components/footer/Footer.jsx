@@ -21,7 +21,7 @@ const Footer = () => {
                 </ul>
 
                 <div className="footer__social">
-                    <a href="https://www.instagram.com/r.r.p.arts/" className="footer__social-link" target='_blank_'>
+                    <a href="https://www.instagram.com/spacespiderprime/" className="footer__social-link" target='_blank_'>
                         <i class="uil uil-instagram"></i>
                     </a>
 

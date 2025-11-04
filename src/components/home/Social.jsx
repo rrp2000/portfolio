@@ -4,7 +4,7 @@ const Social = () => {
     return (
         <div className="home__social">
 
-            <a href="https://www.instagram.com/r.r.p.arts/" className="home__social-icon" target='_blank_'>
+            <a href="https://www.instagram.com/spacespiderprime/" className="home__social-icon" target='_blank_'>
                 <i class="uil uil-instagram"></i>
             </a>
 
